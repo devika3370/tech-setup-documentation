@@ -29,10 +29,10 @@ Kill all tmux sessions<br>
 ### Key Bindings
 tmux uses a prefix key combination (default: Ctrl+b) followed by another key to trigger commands. Here are some common key bindings:
 
-* Split Vertical: Ctrl+b %
-* Split Horizontal: Ctrl+b "
-* Switch Panes: Ctrl+b arrow_key
-* Resize Pane: Ctrl+b Ctrl+arrow_key
+* Split Vertical: ```Ctrl+b %```
+* Split Horizontal: ```Ctrl+b "```
+* Switch Panes: ```Ctrl+b arrow_key```
+* Resize Pane: ```Ctrl+b Ctrl+arrow_key```
 
 Refer to man tmux for a comprehensive list of key bindings and commands.
 
